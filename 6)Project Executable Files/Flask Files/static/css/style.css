@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #DAA06D;
+}
+
+h1{
+    text-align: center;
+    background-color: #98632c;
+    color: white;
+    padding: 1rem;
+    font-weight: 100;
+}
+
+#content{
+    display: flex;
+}
+
+#photo{
+    padding: 10rem;
+}
+
+img{
+    width: 30rem;
+}
+
+#intro{
+    padding: 3rem;
+    padding-top: 8rem;
+}
+
+#button{
+    padding: 2rem 0;
+}
+
+#city{
+    text-align: center;
+    margin: 8rem;
+}
+
+#line1{
+    padding: 1rem;
+}
+
+select{
+    margin: 1rem;
+    background-color: white;
+    border-radius: 5rem;
+    width: 10rem;
+    padding: 0.3rem
+}
+
+#conditions{
+    display: flex;
+    padding: 3rem;
+}
+
+#parameters{
+    width: 8rem;
+}
+
+p{
+    padding: .4rem;
+}
+
+#prediction{
+    margin: 8rem;
+    text-align: center;
+}
+
+h4{
+    margin: 1rem;
+}
+
+input{
+    margin: 1rem;
+    padding: 0.2rem;
+    background-color: white;
+    width: 13rem;
+    border-radius: 0.3rem;
+}
+
+button{
+    background-color: #98632c;
+    padding: 0.2rem;
+    margin: 2rem;
+}
